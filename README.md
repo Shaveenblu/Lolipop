@@ -32,29 +32,6 @@ This is the game I developed as the final project of my 2D game developement Pro
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
-
-👉 **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
-
-👉 **Sensor Integration**: Proximity sensors integrated to detect the distance between user and theparking space.
-
-👉 **Map Integration**: Google Map integrated using geolocation to find locations of parking spaces as well as the user.
-
-👉 **Push Notifications**: Push notifications used to notify about trending parking spaces and other details.
-
-👉 **Dynamic Home Screen with Animated Flat List**: Smooth flat list showcases the latest parking spaces.
-
-👉 **Pull-to-Refresh Functionality**: Users can refresh content with a simple pull gesture for up-to-date information.
-
-👉 **Full-Text Search Capability**: Efficiently search through parking spaces with real-time and instant results.
-
-👉 **Tab Navigation**: Navigate between sections like Home, Map, and Profile with ease using tab navigation.
-
-👉 **Parking space Creation Screen for Uploading Media**: Upload parking space details and image directly from the app with integrated media selection.
-
-👉 **Profile Screen with Detailed Insights**: View account details and activity, including uploaded parking spaces for a personalized experience.
-
-👉 **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
 
 👉 **Animations**: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
 
